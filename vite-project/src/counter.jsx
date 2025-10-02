@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
 import "./ComponentesHook.css"; // Asegúrate de que esta ruta sea correcta
 
+//Grupo 2:
+
+//Zamit Juan Ignacio
+//Macarena Jazmin Calderon
+
 
 function CharacterPoints() {
   const [puntos, setPuntos] = useState(0);

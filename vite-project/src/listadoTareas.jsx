@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
 import "./ComponentesHook.css"; // Asegúrate de que esta ruta sea correcta
 
+//Grupo 2:
+
+//Zamit Juan Ignacio
+//Macarena Jazmin Calderon
+
 /*
 
 Ejercicio 1: Lista de Tareas con Gestión de Estados

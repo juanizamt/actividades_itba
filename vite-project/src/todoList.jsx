@@ -5,6 +5,11 @@ import "./ComponentesHook.css"; // Asegúrate de que esta ruta sea correcta
 //completadas y eliminarlas. Incluye un input para agregar tareas y muestra el total de tareas
 //pendientes.
 
+//Grupo 2:
+
+//Zamit Juan Ignacio
+//Macarena Jazmin Calderon
+
 function ListaTareas() {
 
 const tareasIniciales = [
